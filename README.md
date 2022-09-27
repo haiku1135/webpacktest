@@ -4,3 +4,7 @@
 
 ## 参考にした動画
 https://www.udemy.com/course/front-env-setting-webpack/learn/lecture/16815400#overview
+<!--
+webpack(v4)での説明になるので現在(2022/09/27)時点では他の動画や記事を参考にした方がスムーズに理解できる気がする
+ヴァージョンによって、仕様(書き方)がかなり変わっているっぽい 
+-->
