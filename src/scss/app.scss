@@ -1,0 +1,17 @@
+ h1 {
+  font-size: 2em;
+  color: blue;
+  transition: all .3s;
+
+  &:hover {
+    color: red;
+    transform: translateX(30px);
+  }
+}
+
+.bg {
+  background-image: url('~@imgs/favicon.png');
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+}

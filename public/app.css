@@ -1,0 +1,21 @@
+/*!******************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/app.scss ***!
+  \******************************************************************************************************************************************************/
+h1 {
+  font-size: 2em;
+  color: blue;
+  transition: all 0.3s;
+}
+h1:hover {
+  color: red;
+  transform: translateX(30px);
+}
+
+.bg {
+  background-image: url(images/favicon..png);
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+}
+
+/*# sourceMappingURL=app.css.map*/
